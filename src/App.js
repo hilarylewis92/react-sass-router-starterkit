@@ -1,11 +1,11 @@
 import React from 'react'
-import Header from './components/Header'
-import Home from './components/Home'
+import Nav from './components/Nav'
+import Main from './Main'
 
 const App = () => (
   <div className="App">
-    <Header />
-    <Home />
+    <Nav />
+    <Main />
   </div>
 )
 
