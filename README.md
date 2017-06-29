@@ -24,3 +24,4 @@ Your app is ready to be deployed!
 
 
 (more info about boilerplate)[https://gist.github.com/hilarylewis92/c2fc0894b092267f161869b49e346c33]
+# react-sass-router-starterkit
