@@ -6,12 +6,14 @@
     "custom-react-scripts": "0.0.23",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-router-dom": "^4.1.1"
+    "react-router-dom": "^4.1.1",
+    "skeleton-sass": "0.0.1"
   },
   "devDependencies": {
     "breakpoint-sass": "^2.7.1",
     "sass-core": "^1.0.0",
-    "sass-starter": "^0.2.1"
+    "sass-starter": "^0.2.1",
+    "skeleton-sass-official": "^3.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
