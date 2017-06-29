@@ -1,0 +1,11 @@
+// imports all files
+// 1. core config and core config overrides
+@import "config";
+@import "themes/my_theme/vars";
+@import "themes/my_theme/mixins";
+@import "themes/my_theme/include_components";
+
+
+h2 {
+  font-size: 12px;
+}

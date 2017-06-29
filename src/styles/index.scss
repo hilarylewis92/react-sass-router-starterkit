@@ -1,6 +1,4 @@
-@import 'config';
-@import 'mixins/responsive';
-@import 'mixins/fonts';
-@import 'mixins/misc';
-@import 'mixins/retina';
-@import 'App';
+// loads all Skeleton Sass partial
+@import "skeleton/loader";
+
+// Add custom styles here
