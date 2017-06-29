@@ -1,6 +1,5 @@
-# The Tiber Group
-
-A rebuild to The Tiber Group website
+# React Sass Router Starterkit
+A starter kit that includes react, react-router, sass, and skeleton-sass
 
 ## Available Scripts
 
