@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => (
   <div className="Home">
-    <h2>Home Component </h2>
+    <h2 className='title'>Home Component </h2>
     <form>
       <input type='text'/>
     </form>
